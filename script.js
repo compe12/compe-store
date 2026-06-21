@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // WhatsApp integration functions
 window.buyProduct = function(productName, price) {
     const phoneNumber = '6282214549889'; 
-    const message = `Halo! Saya tertarik untuk membeli akun ${productName} dengan harga Rp ${formatPrice(price)}. 
+    const message = `Halo! Saya tertarik untuk membeli akun. 
 
 Mohon informasi lebih lanjut mengenai:
 - Detail akun
